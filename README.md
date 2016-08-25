@@ -1,4 +1,4 @@
-# Capstone Project -Machine Learning Engineer Nanodegree-
+# Capstone Project --Machine Learning Engineer Nanodegree--
 This repository is for capstone project for Machine Learning Engineer Nanodegree.
 
 In this project, I train a model that can classify images with **Convolutional Neural Network**(CNN).
